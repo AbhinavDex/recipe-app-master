@@ -125,3 +125,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Visual Studio specific files
+.vs/
+slnx.sqlite
+VSWorkspaceState.json
